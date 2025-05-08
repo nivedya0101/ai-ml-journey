@@ -5,7 +5,7 @@ This repository tracks my progress as I study Python, Math for Machine Learning,
 
 ## Structure
 
-- `python-basics/` – Python notebooks from Programming with Mosh
+- `basics_python/` – Python notebooks from Programming with Mosh
 - `math-for-ml/` – Notes and exercises from Coursera's Math for ML course
 - `hackerrank-solutions/` – My solutions to HackerRank problems
 - `projects/` – ML mini-projects I build during the 3-month plan
